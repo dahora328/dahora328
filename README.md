@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Rodrigo da Hora Oliveira, tenho 27 anos e sou natural de São Paulo, atualmente residindo em Tocantins - MG. Sou graduado em Ciência da Computação pela "[UNIFAGFOC](https://unifagoc.edu.br)". Atualmente, trabalho como Suporte na Tocantins Informática e estou sempre buscando aprimorar meus conhecimentos em programação, dedicando parte do meu tempo livre aos estudos e projetos pessoais. Desde jovem, sou apaixonado pela área de tecnologia, que considero desafiadora e em constante evolução. Sempre que posso, desenvolvo projetos próprios para aprender novas ferramentas e conceitos, compartilhando os resultados no meu GitHub. Se quiser conhecer um pouco mais do meu trabalho ou entrar em contato comigo, segue meu [Instagram](https://www.instagram.com/rodrigoliveira328)" e E-mail: rodrigoliveira328@hotmail.com.
+Meu nome é Rodrigo da Hora Oliveira, tenho 27 anos e sou natural de São Paulo, atualmente residindo em Tocantins - MG. Sou graduado em Ciência da Computação pela [UNIFAGFOC](https://unifagoc.edu.br). Atualmente, trabalho como Suporte na Tocantins Informática e estou sempre buscando aprimorar meus conhecimentos em programação, dedicando parte do meu tempo livre aos estudos e projetos pessoais. Desde jovem, sou apaixonado pela área de tecnologia, que considero desafiadora e em constante evolução. Sempre que posso, desenvolvo projetos próprios para aprender novas ferramentas e conceitos, compartilhando os resultados no meu GitHub. Se quiser conhecer um pouco mais do meu trabalho ou entrar em contato comigo, segue meu [Instagram](https://www.instagram.com/rodrigoliveira328) e E-mail: rodrigoliveira328@hotmail.com.
 
 <p align="left">
     <a href="https://github.com/dahora328?tab=repositories&sort=stargazers">
