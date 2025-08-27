@@ -3,6 +3,8 @@
 **`Desenvolvedor FullStack`**
 
 Sou desenvolvedor fullstack júnior, tenho 27 anos, natural de São Paulo e atualmente resido em Tocantins - MG. Sou graduado em Ciência da Computação pela [UNIFAGFOC](https://unifagoc.edu.br), concluída no final de 2023. Atualmente, trabalho na Tocantins Informática na área de Suporte. Iniciei como estagiário em 2018 e, após um ano, fui efetivado. Minhas atividades envolvem atendimento ao cliente, suporte técnico e auxílio em relatórios, atuando principalmente com SQL. Durante a graduação, tive contato com várias linguagens, mas foi em PHP que encontrei maior afinidade, direcionando meu interesse para o back-end. Após a formação, passei a estudar também o front-end, buscando me aperfeiçoar como fullstack. Sou uma pessoa que busca constantemente novos desafios e aprimoramento das minhas habilidades técnicas. Dedico parte do meu tempo livre a estudos e projetos pessoais, sempre com o objetivo de evoluir como profissional. Desde jovem, tenho paixão pela área de tecnologia, que considero desafiadora e em constante evolução. Sempre que possível, desenvolvo projetos próprios para aprender novas ferramentas e conceitos, compartilhando os resultados no meu GitHub 👨🏽‍💻.
+Meu instagram: [Instagram](https://www.instagram.com/rodrigoliveira328)
+Meu e-mail para contato: rodrigoliveira328@hotmail.com 
 
 <p align="left">
     <a href="https://github.com/dahora328?tab=repositories&sort=stargazers">
